@@ -7,7 +7,7 @@ export interface State {
     active: number;
     length: number;
 }
-export declare class Hoverable extends React.Component<Props, State> {
+export default class Hoverable extends React.Component<Props, State> {
     constructor(props: Props);
     componentWillReceiveProps(nextProps: Props): void;
     private onMouseEnter;
