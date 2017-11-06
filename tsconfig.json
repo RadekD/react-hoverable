@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "jsx": "react",
+        "preserveConstEnums": true,
+        "declaration": true,
+        "experimentalDecorators": true,
+        "suppressImplicitAnyIndexErrors": true,
+        "outDir": "./types",
+        "moduleResolution": "node"
+    },
+    "filesGlob": [
+        "./src/**/*.ts"
+    ]
+}
