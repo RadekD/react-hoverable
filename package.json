@@ -1,6 +1,6 @@
 {
   "name": "@r__d/react-hoverable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript implementation of",
   "main": "lib/bundle.js",
   "typings": "types/index.d.ts",
